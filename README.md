@@ -1,12 +1,12 @@
 # Chatbot App Example
 
-Nodejs app, this app includes main class called "Converstaion" has three methods:
+NodeJs app, this app includes main class called "Converstaion" has three methods:
 
 #### constructor()
 
 for loading the needed JSON file from the dialogues folder
 
-#### print()
+#### reply()
 
 for handling the client reply
 
