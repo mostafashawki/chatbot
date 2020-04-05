@@ -1,0 +1,20 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Troubleshooting chatbot example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "Mostafa Shawki",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
